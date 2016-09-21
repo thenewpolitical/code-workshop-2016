@@ -18,7 +18,12 @@ This site is home to a [version control system](https://en.wikipedia.org/wiki/Ve
 ## Okay, but how?
 Below is a list of the sections of this page each with skills I plan to help you learn. First we need an understanding of the site and navigation of the exercises to come.
 
-[### Lesson 1](https://github.com/thenewpolitical/code-workshop-2016/lesson-1)
-[### Lesson 2](https://github.com/thenewpolitical/code-workshop-2016/lesson-2)
-[### Lesson 3](https://github.com/thenewpolitical/code-workshop-2016/lesson-3)
-[### Lesson 4](https://github.com/thenewpolitical/code-workshop-2016/lesson-4)
+## Lessons:
+
+[*Lesson 1*](https://github.com/thenewpolitical/code-workshop-2016/lesson-1)
+
+[*Lesson 2*](https://github.com/thenewpolitical/code-workshop-2016/lesson-2)
+
+[*Lesson 3*](https://github.com/thenewpolitical/code-workshop-2016/lesson-3)
+
+[*Lesson 4*](https://github.com/thenewpolitical/code-workshop-2016/lesson-4)
