@@ -20,10 +20,10 @@ Below is a list of the sections of this page each with skills I plan to help you
 
 ## Lessons:
 
-[**Lesson 1**](https://github.com/thenewpolitical/code-workshop-2016/lesson-1): __How to use Github ( the basics )__
+[**Lesson 1**](https://github.com/thenewpolitical/code-workshop-2016/tree/master/lesson-1): __How to use Github ( the basics )__
 
-[**Lesson 2**](https://github.com/thenewpolitical/code-workshop-2016/lesson-2): __Test... what you want?__
+[**Lesson 2**](https://github.com/thenewpolitical/code-workshop-2016/tree/master/lesson-2): __Test... what you want?__
 
-[**Lesson 3**](https://github.com/thenewpolitical/code-workshop-2016/lesson-3): __Test of the second kind__
+[**Lesson 3**](https://github.com/thenewpolitical/code-workshop-2016/tree/master/lesson-3): __Test of the second kind__
 
-[**Lesson 4**](https://github.com/thenewpolitical/code-workshop-2016/lesson-4): __Other test that isnt second__
+[**Lesson 4**](https://github.com/thenewpolitical/code-workshop-2016/tree/master/lesson-4): __Other test that isnt second__
